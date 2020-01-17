@@ -1,0 +1,12 @@
+h1{
+    font-size: 25px;
+}
+td{
+    border: solid 2px black;
+    width: 30vw;
+    padding: .2vw;
+    text-align: justify;
+}
+tr{
+    border: solid black 1px;
+}
